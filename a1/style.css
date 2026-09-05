@@ -1,0 +1,26 @@
+body {
+    background-color: #f7f4ea;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 40px;
+}
+
+.prince-img {
+    width: 300px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+.quote {
+    font-size: 20px;
+    color: #123b35;
+    width: 60%;
+    margin: 0 auto 30px auto;
+}
+
+.back-link {
+    font-size: 18px;
+    color: #0f4039;
+    text-decoration: none;
+    font-weight: bold;
+}
