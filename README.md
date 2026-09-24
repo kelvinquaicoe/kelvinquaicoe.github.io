@@ -8,6 +8,6 @@ Enable GitHub Pages in the repository settings with the `main` branch as the dep
 
 ## Pages included
 
-- `index.html` links to both assignment pages.
+- `index.html` links to the introduction and Little Prince pages.
 - `little_prince.html` includes the local cover image at `img/img1.jpeg`, reference text, and the shared stylesheet.
-- `calculator.html` contains the JavaScript calculator and summary tables.
+- `introduction.html` provides the assignment introduction and a link back to the index.
