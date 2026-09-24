@@ -17,7 +17,7 @@ body {
   font-family: Georgia, "Times New Roman", serif;
 }
 
-.landing-page, .calculator-page, .prince-page {
+.landing-page, .assignment-page, .prince-page {
   width: min(920px, calc(100% - 40px));
   margin: 0 auto;
   padding: 72px 0;
@@ -65,7 +65,7 @@ tbody tr:nth-child(even) { background: #f7f3eb; }
 .source { color: var(--muted); font: 0.82rem Arial, sans-serif; }
 
 @media (max-width: 650px) {
-  .landing-page, .calculator-page, .prince-page { padding: 42px 0; }
+  .landing-page, .assignment-page, .prince-page { padding: 42px 0; }
   .prince-hero { grid-template-columns: 1fr; gap: 30px; }
   .prince-hero img { max-width: 240px; }
   table { display: block; overflow-x: auto; white-space: nowrap; }
