@@ -2,7 +2,7 @@
 
 ## Published site
 
-Expected GitHub Pages URL: https://kelvinquaicoe.github.io/Comp_322_assignment_3/
+Expected GitHub Pages URL: https://kelvinquaicoe.github.io/
 
 Enable GitHub Pages in the repository settings with the `main` branch as the deployment source if the link is not active yet.
 
